@@ -1,4 +1,5 @@
 from colorama import Fore, Style
+
 def get_amount():
     while True:
         try:
